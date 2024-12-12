@@ -1,0 +1,13 @@
+Derek, Brandon, Ricky
+
+TAPPER
+    - to compile run make
+    - to test run the ./run_test.sh file
+    - the tapper function instantiates a task pipleine to read data     between functions and live plot using matplotlib
+
+TAPPET
+    - Similar to tapper, run with same commands as in run_test.sh in command line
+SHELL
+    - Supports simple commands, semicolon ; for separate commands, >, 1>, 2>, <, &>, and a single pipe |
+    - ./myshell is the command to run it
+    - For tapper, myshell must be run in the tapper_folder as ./../myshell
